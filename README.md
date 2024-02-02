@@ -1,8 +1,8 @@
 # TIS-Assignments
 
-_This contains reflections on all the assignments and tasks in the Technology and Information System course._
+_This contains the reflections on all the assignments and tasks in the Technology and Information System course._
 
-Assignment 1 : Poster on Industry Talk 1
+Assignment 1 : Poster on Industry Talk 1 
 
 - Reflection: The discussion offered valuable insights of the industry, helping me understand the current landscape. This has allowed me to visualize potential career paths and recognize the key skills needed for success. The experience has expanded my perspective on ICT jobs, motivating me to explore and thrive in the software industry.
 
@@ -31,9 +31,6 @@ PC Assembly:
 
 
 Design Thinking: Video and Report
-
-- Video: https://www.youtube.com/watch?v=BesRILGXe_M
-- Report: 
 
 - Reflection: As a software engineering student, design thinking has greatly influenced my work, since it highlights how important it is to understand user demand beyond coding. This has improved my software usability and inspired me to address user challenges. It also helped me to solve problems beyond technical limitations and improved my capacity to adapt and be creative when solving problems.
 
