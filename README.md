@@ -1,6 +1,6 @@
 # TIS-Assignments
 
-_This contains the reflections on all the assignments and tasks in the Technology and Information System course._
+_This contains reflections on all the assignments and tasks in the Technology and Information System course._
 
 Assignment 1 : Poster on Industry Talk 1 
 
